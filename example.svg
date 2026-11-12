@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-80 -38 1628 323" width="1628" height="323" font-family="Helvetica, Arial, sans-serif">
+<title>sample</title>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5f6b7a"/></marker>
+<symbol id="fa-building" viewBox="0 0 384 512"><path d="M64 0C28.7 0 0 28.7 0 64v384c0 35.3 28.7 64 64 64h256c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64zm112 352h32c17.7 0 32 14.3 32 32v80h-96v-80c0-17.7 14.3-32 32-32M96 112c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16h-32c-8.8 0-16-7.2-16-16zm144-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16h-32c-8.8 0-16-7.2-16-16v-32c0-8.8 7.2-16 16-16M96 240c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16h-32c-8.8 0-16-7.2-16-16zm144-16h32c8.8 0 16 7.2 16 16v32c0 8.8-7.2 16-16 16h-32c-8.8 0-16-7.2-16-16v-32c0-8.8 7.2-16 16-16"/></symbol>
+<symbol id="fa-desktop" viewBox="0 0 512 512"><path d="M64 32C28.7 32 0 60.7 0 96v256c0 35.3 28.7 64 64 64h144l-16 48h-72c-13.3 0-24 10.7-24 24s10.7 24 24 24h272c13.3 0 24-10.7 24-24s-10.7-24-24-24h-72l-16-48h144c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64zm32 64h320c17.7 0 32 14.3 32 32v160c0 17.7-14.3 32-32 32H96c-17.7 0-32-14.3-32-32V128c0-17.7 14.3-32 32-32"/></symbol>
+<symbol id="fa-gem" viewBox="0 0 512 512"><path d="M116.7 33.8c4.5-6.1 11.7-9.8 19.3-9.8h240c7.6 0 14.8 3.6 19.3 9.8l112 152c6.8 9.2 6.1 21.9-1.5 30.4l-232 256c-4.5 5-11 7.9-17.8 7.9s-13.2-2.9-17.8-7.9l-232-256c-7.7-8.5-8.3-21.2-1.5-30.4zm38.5 39.8c-3.3 2.5-4.2 7-2.1 10.5l57.4 95.7L63.3 192c-4.1.3-7.3 3.8-7.3 8s3.2 7.6 7.3 8l192 16h1.3l192-16c4.1-.3 7.3-3.8 7.3-8s-3.2-7.6-7.3-8l-147.2-12.3 57.4-95.6c2.1-3.5 1.2-8.1-2.1-10.5s-7.9-2-10.7 1l-90 97.6-90.1-97.6c-2.8-3-7.4-3.4-10.7-1"/></symbol>
+<symbol id="fa-globe" viewBox="0 0 512 512"><path d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></symbol>
+<symbol id="fa-id-card" viewBox="0 0 576 512"><path d="M0 96c0-35.3 28.7-64 64-64h448c35.3 0 64 28.7 64 64zm0 48h576v272c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64zm247.3 272c20.2 0 35.3-19.4 22.4-35-14.7-17.7-36.9-29-61.7-29h-64c-24.8 0-47 11.3-61.7 29-12.9 15.6 2.2 35 22.4 35h142.5zM176 312a56 56 0 1 0 0-112 56 56 0 1 0 0 112m184-104c-13.3 0-24 10.7-24 24s10.7 24 24 24h112c13.3 0 24-10.7 24-24s-10.7-24-24-24zm0 96c-13.3 0-24 10.7-24 24s10.7 24 24 24h112c13.3 0 24-10.7 24-24s-10.7-24-24-24z"/></symbol>
+<symbol id="fa-skull" viewBox="0 0 512 512"><path d="M416 427.4c58.5-44 96-111.6 96-187.4C512 107.5 397.4 0 256 0S0 107.5 0 240c0 75.8 37.5 143.4 96 187.4V464c0 26.5 21.5 48 48 48h32v-40c0-13.3 10.7-24 24-24s24 10.7 24 24v40h64v-40c0-13.3 10.7-24 24-24s24 10.7 24 24v40h32c26.5 0 48-21.5 48-48zM96 256a64 64 0 1 1 128 0 64 64 0 1 1-128 0m256-64a64 64 0 1 1 0 128 64 64 0 1 1 0-128"/></symbol>
+<symbol id="fa-user" viewBox="0 0 448 512"><path d="M224 248a120 120 0 1 0 0-240 120 120 0 1 0 0 240m-29.7 56C95.8 304 16 383.8 16 482.3c0 16.4 13.3 29.7 29.7 29.7h356.6c16.4 0 29.7-13.3 29.7-29.7 0-98.5-79.8-178.3-178.3-178.3z"/></symbol>
+<symbol id="fa-users" viewBox="0 0 640 512"><path d="M320 16a104 104 0 1 1 0 208 104 104 0 1 1 0-208M96 88a72 72 0 1 1 0 144 72 72 0 1 1 0-144M0 416c0-70.7 57.3-128 128-128 12.8 0 25.2 1.9 36.9 5.4C132 330.2 112 378.8 112 432v16c0 11.4 2.4 22.2 6.7 32H32c-17.7 0-32-14.3-32-32zm521.3 64c4.3-9.8 6.7-20.6 6.7-32v-16c0-53.2-20-101.8-52.9-138.6 11.7-3.5 24.1-5.4 36.9-5.4 70.7 0 128 57.3 128 128v32c0 17.7-14.3 32-32 32zM472 160a72 72 0 1 1 144 0 72 72 0 1 1-144 0M160 432c0-88.4 71.6-160 160-160s160 71.6 160 160v16c0 17.7-14.3 32-32 32H192c-17.7 0-32-14.3-32-32z"/></symbol>
+</defs>
+<rect x="-80" y="-38" width="1628" height="323" fill="#ffffff"/>
+<g fill="none" stroke="#5f6b7a" stroke-width="1.4">
+<path d="M44.1,22.0 C88.3,22.0 190.4,22.0 234.8,22.0" marker-end="url(#arrow)"/>
+<path d="M279.2,22.0 C322.0,22.0 418.8,22.0 461.7,22.0" marker-end="url(#arrow)"/>
+<path d="M506.0,22.0 C550.9,22.0 655.6,22.0 700.7,22.0" marker-end="url(#arrow)"/>
+<path d="M704.5,34.0 C686.4,45.6 657.2,62.3 629.0,69.0 C607.0,74.3 600.0,74.3 578.0,69.0 C549.8,62.3 520.6,45.6 502.5,34.0" marker-end="url(#arrow)"/>
+<path d="M745.1,22.0 C789.3,22.0 891.4,22.0 935.8,22.0" marker-end="url(#arrow)"/>
+<path d="M979.8,24.9 C1024.4,31.2 1128.7,45.8 1173.2,52.1" marker-end="url(#arrow)"/>
+<path d="M977.8,167.2 C1021.8,144.4 1131.0,87.7 1175.1,64.8" marker-end="url(#arrow)"/>
+<path d="M978.4,186.1 C996.9,194.2 1025.6,205.5 1052.0,210.0 C1094.3,217.3 1144.7,214.7 1172.7,212.2" marker-end="url(#arrow)"/>
+<path d="M1217.2,210.0 C1262.6,210.0 1368.5,210.0 1413.9,210.0" marker-end="url(#arrow)"/>
+</g>
+<g font-size="9" text-anchor="middle" fill="#2b2f36" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">
+<text x="139.5" y="20.0">MemberOf</text>
+<text x="370.5" y="20.0">AdminTo</text>
+<text x="603.5" y="20.0">HasSession</text>
+<text x="603.5" y="67.0">HasSession</text>
+<text x="840.5" y="20.0">MemberOf</text>
+<text x="1076.5" y="34.0">GenericAll</text>
+<text x="1076.5" y="104.0">ADCSESC1</text>
+<text x="1076.5" y="208.0">Enroll</text>
+<text x="1315.5" y="208.0">PublishedTo</text>
+</g>
+<g><title>JDOE@TEST.EXAMPLE.NL (User)</title>
+<circle cx="22.0" cy="22.0" r="22" fill="#17E625" stroke="#0e9518" stroke-width="1.5"/>
+<use href="#fa-user" x="11.5" y="10.0" width="21.0" height="24.0" fill="#1d1d1d"/>
+<circle cx="37.8" cy="6.2" r="8.5" fill="#d32f2f" stroke="#ffffff" stroke-width="1.5"/>
+<use href="#fa-skull" x="32.8" y="1.2" width="10.0" height="10.0" fill="#ffffff"/>
+<text x="22.0" y="58.0" font-size="11" text-anchor="middle" fill="#1d1d1d" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">JDOE@TEST.EXAMPLE.NL</text>
+</g>
+<g><title>HELPDESK@TEST.EXAMPLE.NL (Group)</title>
+<circle cx="257.0" cy="22.0" r="22" fill="#DBE617" stroke="#8e950e" stroke-width="1.5"/>
+<use href="#fa-users" x="245.0" y="12.4" width="24.0" height="19.2" fill="#1d1d1d"/>
+<text x="257.0" y="58.0" font-size="11" text-anchor="middle" fill="#1d1d1d" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">HELPDESK@TEST.EXAMPLE.NL</text>
+</g>
+<g><title>SRV-FILE01.TEST.EXAMPLE.NL (Computer)</title>
+<circle cx="484.0" cy="22.0" r="22" fill="#E67873" stroke="#954e4a" stroke-width="1.5"/>
+<use href="#fa-desktop" x="472.0" y="10.0" width="24.0" height="24.0" fill="#1d1d1d"/>
+<text x="484.0" y="58.0" font-size="11" text-anchor="middle" fill="#1d1d1d" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">SRV-FILE01.TEST.EXAMPLE.NL</text>
+</g>
+<g><title>SVC_BACKUP@TEST.EXAMPLE.NL (User)</title>
+<circle cx="723.0" cy="22.0" r="22" fill="#17E625" stroke="#0e9518" stroke-width="1.5"/>
+<use href="#fa-user" x="712.5" y="10.0" width="21.0" height="24.0" fill="#1d1d1d"/>
+<text x="723.0" y="58.0" font-size="11" text-anchor="middle" fill="#1d1d1d" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">SVC_BACKUP@TEST.EXAMPLE.NL</text>
+</g>
+<g><title>DOMAIN ADMINS@TEST.EXAMPLE.NL (Group)</title>
+<circle cx="958.0" cy="22.0" r="22" fill="#DBE617" stroke="#8e950e" stroke-width="1.5"/>
+<use href="#fa-users" x="946.0" y="12.4" width="24.0" height="19.2" fill="#1d1d1d"/>
+<circle cx="942.2" cy="6.2" r="8.5" fill="#1f2a44" stroke="#ffffff" stroke-width="1.5"/>
+<use href="#fa-gem" x="937.2" y="1.2" width="10.0" height="10.0" fill="#ffffff"/>
+<text x="958.0" y="58.0" font-size="11" text-anchor="middle" fill="#1d1d1d" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">DOMAIN ADMINS@TEST.EXAMPLE.NL</text>
+</g>
+<g><title>TEST.EXAMPLE.NL (Domain)</title>
+<circle cx="1195.0" cy="55.0" r="22" fill="#17E6B9" stroke="#0e9578" stroke-width="1.5"/>
+<use href="#fa-globe" x="1183.0" y="43.0" width="24.0" height="24.0" fill="#1d1d1d"/>
+<circle cx="1179.1" cy="39.2" r="8.5" fill="#1f2a44" stroke="#ffffff" stroke-width="1.5"/>
+<use href="#fa-gem" x="1174.1" y="34.2" width="10.0" height="10.0" fill="#ffffff"/>
+<text x="1195.0" y="91.0" font-size="11" text-anchor="middle" fill="#1d1d1d" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">TEST.EXAMPLE.NL</text>
+</g>
+<g><title>WS-ADMIN07.TEST.EXAMPLE.NL (Computer)</title>
+<circle cx="958.0" cy="177.0" r="22" fill="#E67873" stroke="#954e4a" stroke-width="1.5"/>
+<use href="#fa-desktop" x="946.0" y="165.0" width="24.0" height="24.0" fill="#1d1d1d"/>
+<circle cx="973.9" cy="161.2" r="8.5" fill="#d32f2f" stroke="#ffffff" stroke-width="1.5"/>
+<use href="#fa-skull" x="968.9" y="156.2" width="10.0" height="10.0" fill="#ffffff"/>
+<text x="958.0" y="213.0" font-size="11" text-anchor="middle" fill="#1d1d1d" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">WS-ADMIN07.TEST.EXAMPLE.NL</text>
+</g>
+<g><title>ESC1-TEMPLATE@TEST.EXAMPLE.NL (CertTemplate)</title>
+<circle cx="1195.0" cy="210.0" r="22" fill="#B153F3" stroke="#73359d" stroke-width="1.5"/>
+<use href="#fa-id-card" x="1183.0" y="199.3" width="24.0" height="21.3" fill="#1d1d1d"/>
+<text x="1195.0" y="246.0" font-size="11" text-anchor="middle" fill="#1d1d1d" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">ESC1-TEMPLATE@TEST.EXAMPLE.NL</text>
+</g>
+<g><title>TEST-CA@TEST.EXAMPLE.NL (EnterpriseCA)</title>
+<circle cx="1436.0" cy="210.0" r="22" fill="#4696E9" stroke="#2d6197" stroke-width="1.5"/>
+<use href="#fa-building" x="1427.0" y="198.0" width="18.0" height="24.0" fill="#1d1d1d"/>
+<text x="1436.0" y="246.0" font-size="11" text-anchor="middle" fill="#1d1d1d" stroke="#ffffff" stroke-width="3" paint-order="stroke" stroke-linejoin="round">TEST-CA@TEST.EXAMPLE.NL</text>
+</g>
+</svg>
